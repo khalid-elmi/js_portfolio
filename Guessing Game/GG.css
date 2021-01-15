@@ -1,0 +1,35 @@
+#container {
+    background-color: #22FFFE;
+    border: 5px solid #03010A;
+    border-radius: 2px;
+    height: 300px;
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    border-radius: 50px;
+}
+
+h1 {
+    font-size: 40px
+}
+
+p {
+    font-size: 24px;
+}
+
+#userInput {
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+#container2 {
+    background-color: #22FFFE;
+    border: 5px solid #03010A;
+    border-radius: 2px;
+    height: 90px;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    border-radius: 50px;
+}

@@ -1,0 +1,35 @@
+var dayToday = 1
+var day;
+switch (dayToday) {
+    case 1: 
+        day = "Mon"
+        alert("The day is" + day))
+        break;
+    case 2: 
+        day = "Tue"
+        alert("The day is" + day)
+        break;
+    case 3:
+        day = "Wed"
+        alert("The day is" + day)
+        break;
+    case 4:
+        day = "thurs"
+        alert("The day is" + day)
+        break;
+    case 5:
+        day = "Fri"
+        alert("The day is" + day)
+        break;
+    case 6: 
+        day = "sat"
+        alert("The day is" + day)
+        break;
+    case 7: 
+        day = "sun"
+        alert("The day is" + day)
+        break;
+    case 8:
+        day = "like bruh"
+        break;
+}

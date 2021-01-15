@@ -1,0 +1,26 @@
+#container {
+    background-color: #22FFFE;
+    border: 5px solid #03010A;
+    border-radius: 2px;
+    height: 300px;
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    border-radius: 50px;
+}
+
+h1 {
+    font-size: 60px
+}
+
+p {
+    font-size: 35px;
+}
+
+#btn {
+    height: 70px;
+    width: 300px;
+    background-color: #03010A;
+    font-size: 30px;
+    color: #FFFFFF;
+}
